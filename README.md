@@ -10,6 +10,9 @@ The repository should be understood with the research paper.
 The improvement proposed with these custom loss functions is for research ONLY and does not provide any usefull tool for making AI-assisted trading.
 
 For any question or comment, please feel free to contact the author.
+
 j.dessain@navagne.com   ///  j.dessain@ieseg.fr
+
 www.navagne.com
+
 All rights reserved - Copyright Navagne (2021)
