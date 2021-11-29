@@ -3,7 +3,7 @@ Custom Loss functions for asset return prediction with deep learning regression
 
 Custom loss functions presented improve ML regression algorithms predicting asset returns. 
 This repository is linked to a paper currently submitted to a peer reviewed journal and a research conference. 
-The draft has been made available for research purpose on ssrn.com/abstract= .
+The draft has been made available for research purpose on ssrn.com/abstract=3973086.
 
 The repository should be understood with the research paper.
 
