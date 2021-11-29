@@ -5,7 +5,7 @@ Custom Loss functions applied for algorithms predicting asset returns with Pytor
 A similar repository with Tensorflow 2.0 custom loss functions will be soon published
 
 This file presents an abstract of the code used for preparing a publication submitted to peer-reviewed journal
-and available on SSRN https://ssrn.com/abstract=3927058  
+and available on SSRN https://ssrn.com/abstract=3973086  
 
 ATTENTION : Code presented is NOT optimized but rather presented pedagogically
 
