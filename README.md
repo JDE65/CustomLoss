@@ -1,6 +1,9 @@
 # CustomLoss
 Custom Loss functions for asset return prediction with deep learning regression 
 
+![loss vis1](./vis1.jpeg)
+![loss vis2](./vis2.jpeg)
+
 Custom loss functions presented improve ML regression algorithms predicting asset returns. 
 This repository is linked to a paper currently submitted to a peer reviewed journal and a research conference. 
 The draft has been made available for research purpose on https://ssrn.com/abstract=3973086.
